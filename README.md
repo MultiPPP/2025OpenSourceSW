@@ -4,4 +4,6 @@
 
 # sample1 브랜치에서만 수정하는 중입니다.
 
-# 13주차 충돌r
+<<<<<<< HEAD
+# sample1과 sample2는 merge 되었읍니다 ^^
+>>>>>>> sample2
